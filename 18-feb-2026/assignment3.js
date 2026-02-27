@@ -1,4 +1,7 @@
-// 3. find the sum of marks in [90,78,65,98]
+/**
+ * Assignment 3: Calculate Array Sum
+ * Sum all marks in a given array of numbers
+ */
 
 let a = [90,78,65,98]
 let i= [0]
