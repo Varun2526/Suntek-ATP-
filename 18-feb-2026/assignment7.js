@@ -1,6 +1,8 @@
-// 7.write a function that receives an array & search elements args and 
-// return the index of tht element in the array.
-// it should return "not found" ehrn search element not found .
+/**
+ * Assignment 7: Array Search Function
+ * Find the index of a given element in an array
+ * Returns "not found" if the element doesn't exist
+ */
 
 function searchArray(arr,target){
     let i 
