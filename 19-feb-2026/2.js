@@ -1,3 +1,9 @@
+/**
+ * Functions as First Class Objects
+ * Deep dive into function expressions, callbacks, and higher-order functions
+ * Demonstrates how functions can be stored in variables and returned from other functions
+ */
+
 /// FUNCTION ARE FIRST CLASS OBJECTS 
           //BECAUSE
 /*deep dive in functions 
