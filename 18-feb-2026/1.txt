@@ -1,0 +1,12 @@
+
+programs to do now
+
+1.find the big number amoung the given two numbers 
+2. find the big number among the given three numbers
+3. find the sum of marks in [90,78,65,98]
+4. find the smallest element in marks array
+5. write a function that receives 3 numbers args and return the big number
+6.write a function that recives n array as arg nd return thier sum 
+7.write a function that receives an array & search elements args and 
+return the index of tht element in the array.
+    it should return "not found" ehrn search element not found .
