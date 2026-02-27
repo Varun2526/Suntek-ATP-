@@ -1,3 +1,9 @@
+/**
+ * Module 1: Named Exports
+ * Exports data, objects, and strings for use in other modules
+ * Demonstrates ES6 module export syntax
+ */
+
     //named export 
 export let data = [65,75,8549,237,753,752,652,]
 export let person ={

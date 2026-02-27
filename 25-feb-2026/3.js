@@ -1,3 +1,9 @@
+/**
+ * Arrays and Objects Fundamentals
+ * Comprehensive lesson on array operations and object manipulation
+ * Covers callbacks, destructuring, and ES6 concepts
+ */
+
 // - basic operations of array
 //read elements 
 // itterate array
