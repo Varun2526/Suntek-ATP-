@@ -1,3 +1,8 @@
+/**
+ * Exercise 2: Spread Operator - Object Cloning
+ * Clone objects and add new properties using spread
+ */
+
 //  💡 Exercise 2: Update User Object
                         
 //                         Goal: Learn object cloning & adding new property

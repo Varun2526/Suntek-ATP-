@@ -1,3 +1,8 @@
+/**
+ * OTP Countdown Simulator
+ * Demonstrate setInterval and setTimeout coordination
+ */
+
 // 2.OTP Countdown Simulator (Console App)
 // ------------------------------------
         

@@ -1,3 +1,8 @@
+/**
+ * Exercise 2: Deep Copy
+ * Demonstrates complete isolation with deep copying
+ */
+
 // Hands-On 2: Deep Copy (Isolation & Safety Use Case)
 // ---------------------------------------------------
 

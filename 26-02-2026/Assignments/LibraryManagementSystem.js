@@ -1,3 +1,9 @@
+/**
+ * Library Management System Project
+ * Object-oriented implementation with Book class
+ * Demonstrates encapsulation and state management
+ */
+
 class Book{
     //variables
     title;

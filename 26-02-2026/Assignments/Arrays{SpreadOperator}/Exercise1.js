@@ -1,3 +1,8 @@
+/**
+ * Exercise 1: Spread Operator - Array Copying
+ * Shallow copy arrays and extend with new elements
+ */
+
 // 💡 Exercise 1: Copy & Extend an Array
 
 //                         Goal: Learn array copying with spread

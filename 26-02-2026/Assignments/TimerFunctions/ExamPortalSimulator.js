@@ -1,3 +1,8 @@
+/**
+ * Exam Portal Simulator
+ * Demonstrates sequential timers with setTimeout
+ */
+
 // 1.Exam portal simulator:
 // -----------------------------
 // When a student submits an exam:

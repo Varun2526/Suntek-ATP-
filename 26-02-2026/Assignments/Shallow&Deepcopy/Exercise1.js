@@ -1,3 +1,8 @@
+/**
+ * Exercise 1: Shallow Copy
+ * Demonstrates shallow copy behavior and nested reference issues
+ */
+
 // Given Data:
 const user = {
   id: 101,
