@@ -1,3 +1,8 @@
+/**
+ * Assignment 3: Student Marks Processor
+ * Process exam results with filtering, mapping, and aggregation
+ */
+
 /*
 
 
