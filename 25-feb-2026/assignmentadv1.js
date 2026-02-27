@@ -1,3 +1,8 @@
+/**
+ * Advanced Assignment 1: E-commerce Shopping Cart
+ * Real-world cart analysis using array methods
+ */
+
 /*
 ASSIGNMENT 1:
 -------------
