@@ -1,3 +1,9 @@
+/**
+ * Task Manager - Task Operations Module
+ * CRUD operations for task management
+ * Integrates with validator for input validation
+ */
+
 /*
 ii. task.js - Task operations
                     // TODO: Import validator functions

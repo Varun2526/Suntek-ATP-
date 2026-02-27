@@ -1,3 +1,9 @@
+/**
+ * Task Manager - Main Application
+ * Entry point integrating validator and task operations modules
+ * Demonstrates modular application architecture
+ */
+
 /*
 
       iii. app.js - Main application

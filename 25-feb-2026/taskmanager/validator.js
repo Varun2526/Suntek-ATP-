@@ -1,3 +1,9 @@
+/**
+ * Task Manager - Validator Module
+ * Validates task inputs: title, priority level, and due dates
+ * Ensures data integrity before task creation
+ */
+
 /*
 
 Requirements:
