@@ -1,3 +1,8 @@
+/**
+ * Assignment 2: Online Course Processor
+ * Filter, transform, and concatenate course names using array methods
+ */
+
 /*
 Assignment 2: Online Course Name Processor
 ------------------------------------------
