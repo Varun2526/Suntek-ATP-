@@ -1,3 +1,9 @@
+/**
+ * Shopping Cart - Product Module
+ * Product catalog management with inventory tracking
+ * Provides product retrieval, search, and stock validation
+ */
+
 /* i. product.js - Product catalog
                           // Product database (simulated)
                           const products = [
