@@ -1,5 +1,7 @@
-
-//2. find the big number in the given three numbers
+/**
+ * Assignment 2: Find Maximum Among Three Numbers
+ * Determine the largest value among three given numbers
+ */
 
 const a =73
 const b =68
