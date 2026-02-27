@@ -1,4 +1,7 @@
-// 5. write a function that receives 3 numbers args and return the big number
+/**
+ * Assignment 5: Find Biggest Number Function
+ * Create a function that accepts three numbers and returns the largest
+ */
 
 function findBiggest(a,b,c){
     if(a>=b && a>=c){
