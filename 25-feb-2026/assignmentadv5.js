@@ -1,7 +1,4 @@
-/**
- * Advanced Assignment 5: Bank Transaction Analyzer
- * Financial statement analysis with filtering and aggregation
- */
+
 
 /*
 
