@@ -1,3 +1,8 @@
+/**
+ * Advanced Assignment 3: Employee Payroll Processor
+ * Salary calculations with department filtering
+ */
+
 /*
 ASSIGNMENT 3:
 -------------

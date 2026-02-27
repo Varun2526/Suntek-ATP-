@@ -1,3 +1,8 @@
+/**
+ * Advanced Assignment 4: Movie Streaming Recommendation
+ * Genre filtering and rating aggregation
+ */
+
 /*
 
 ASSIGNMENT 4: 

@@ -1,3 +1,8 @@
+/**
+ * Advanced Assignment 2: Student Performance Dashboard
+ * Grade assignment and performance analysis
+ */
+
 /*
 ASSIGNMENT 2:
 -------------
