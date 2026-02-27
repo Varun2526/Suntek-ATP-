@@ -1,3 +1,9 @@
+/**
+ * JavaScript Promises
+ * Promise states: pending, fulfilled, rejected
+ * Producer/consumer pattern and promise chaining
+ */
+
 //Promise
 //every promise completes in future but not immediately
 //every promise starts with pending status onlyy..

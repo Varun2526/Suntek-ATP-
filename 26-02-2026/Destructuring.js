@@ -1,3 +1,9 @@
+/**
+ * Destructuring in JavaScript
+ * Unpacking arrays and objects into separate variables
+ * Covers nested destructuring and parameter destructuring
+ */
+
 //Destructuring(unpacking)
 //for arrays and objects the destructuring of data has the same importance as the structuring(packing) has
 let arr=[10,20,30]

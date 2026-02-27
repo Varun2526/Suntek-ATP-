@@ -1,3 +1,9 @@
+/**
+ * Rest Parameters in JavaScript
+ * Accepting variable number of arguments in functions
+ * Difference between rest parameters and spread operator
+ */
+
 //RestParameters
 //if we do not know the no of parameters to be passed while writing the function and to decide the no of parameters while calling the function we need to make the paramenters as rest parameters
 //the symbol used to make a parameter as rest parameter we use(...) symbol

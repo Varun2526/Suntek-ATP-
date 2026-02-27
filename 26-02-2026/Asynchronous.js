@@ -1,3 +1,9 @@
+/**
+ * Asynchronous Programming Fundamentals
+ * Synchronous vs asynchronous execution with setTimeout
+ * Understanding non-blocking operations and event loop
+ */
+
 //Synchronous
 //exceution of code line by line...
 //the nature of this kind of programming is that the next task waits until the previous task is completed

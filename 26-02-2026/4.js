@@ -1,3 +1,9 @@
+/**
+ * Classes and Objects in JavaScript
+ * Covers OOP fundamentals: class declaration, constructors, instance/static members
+ * Demonstrates practical object-oriented programming patterns
+ */
+
 //Morning
 //classes and objects
 //class is the logical existence which deosnot occupy any memory..//Class never occupies the space in the memory the objects occupies the space 
