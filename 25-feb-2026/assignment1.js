@@ -1,3 +1,9 @@
+/**
+ * Assignment 1: Daily Temperature Analyzer
+ * Process weather data using modern array methods.
+ * Filter above threshold, convert units with map, calculate averages with reduce.
+ */
+
 /* Assignment 1: Daily Temperature Analyzer
 ----------------------------------------
 Scenario : You are analyzing daily temperatures recorded by a weather app.
