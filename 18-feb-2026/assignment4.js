@@ -1,4 +1,8 @@
-// 4. find the smallest element in marks array
+/**
+ * Assignment 4: Find Minimum Array Element
+ * Locate the smallest value in a marks array
+ */
+
 let a =[64,6483,75,32,93,20]
 let smallest = a[0]
 let i 
