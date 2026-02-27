@@ -1,4 +1,7 @@
-// 6.write a function that recives n array as arg nd return thier sum 
+/**
+ * Assignment 6: Array Sum Function
+ * Write a function that accepts an array and returns the sum of all elements
+ */
 
 function sumArray (arr){
     let sum = 0;
