@@ -1,3 +1,8 @@
+/**
+ * Assignment 1: Employee Marks Analysis
+ * Process employee records and calculate their average marks using array methods
+ */
+
 const employees = [
   {
     eno: 101,
